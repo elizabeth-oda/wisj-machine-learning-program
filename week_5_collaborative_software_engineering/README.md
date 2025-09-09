@@ -1,5 +1,5 @@
 # Week 5: Collaborative Software Engineering
-Lecturer: Dr. Rousslan Dossa
+Lecturer: Dr. Rousslan Dossa, Chief Researcher at Araya
 
 ### Links to materials
 - [Part 1](https://hackmd.io/@dosssman/rkYUSr7Kke)
